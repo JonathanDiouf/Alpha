@@ -1,0 +1,12 @@
+{
+  "name": "alpha_server",
+  "version": "1.0.0",
+  "description": "node server for alpha app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "JonathanDiouf",
+  "license": "ISC"
+}
