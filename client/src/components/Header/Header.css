@@ -1,9 +1,22 @@
-.container {
+header {
+    padding: 0;
+    margin-left: 0;
+    background: linear-gradient(600deg, rgb(7, 128, 21) 20%, rgb(240, 241, 241) 80%);
+    margin: 0;
+    padding: 0;
+}
+
+.col {
+    padding: 0;
+    margin: 0;
+}
+
+.nav-link {
+    font-family: 'Comfortaa', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
     color: #fff;
 }
 
-a {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-decoration: none;
-    color: #fff;
+.header {
+    justify-content: space-between;
 }

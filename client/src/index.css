@@ -13,3 +13,28 @@ code {
     font-family: 'Aqum';
     src: local('Aqum'), url(./font/Aqum.ttf) format('truetype');
 }
+
+@font-face {
+    font-family: 'Quicksand';
+    src: local('Quicksand'), url(./font/Quicksand-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: local('Montserrat'), url(./font/Montserrat-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: local('Lato'), url(./font/Lato-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter'), url(./font/Inter-VariableFont_slnt\,wght.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Comfortaa';
+    src: local('Comfortaa'), url(./font/Comfortaa-VariableFont_wght.ttf) format('truetype');
+}

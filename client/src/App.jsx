@@ -13,12 +13,15 @@ import {Forum} from './pages/Forum/Forum';
 import {Fantasy} from './pages/Fantasy/Fantasy';
 import {Account} from './pages/Account/Account';
 import {Fixtures} from './pages/Fixtures/Fixtures';
+import 'bootstrap/dist/css/bootstrap.css';
+import "bootstrap";
 
 //Dependencies
 import ReactDOM from "react-dom";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
+  document.body.style.backgroundColor = "#000"
   return (
     <BrowserRouter>
     <Routes>
