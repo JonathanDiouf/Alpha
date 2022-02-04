@@ -19,6 +19,9 @@ export function Header(){
                     <Navbar>
                         <Nav>
                             <Nav.Link href="/Fantasy">Fantasy</Nav.Link>
+                            <Nav.Link href="/Fantasy">Fantasy</Nav.Link>
+                            <Nav.Link href="/Fantasy">Fantasy</Nav.Link>
+                            <Nav.Link href="/Fantasy">Fantasy</Nav.Link>
                         </Nav>
                     </Navbar>
                 </Col>
